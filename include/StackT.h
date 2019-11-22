@@ -16,7 +16,7 @@ public:
 	{
       if (!OsnStack<T>::_head)
       throw std::exception();
-      T data = StackMain<T>::_head->_data;
+      T data = OsnStack<T>::_head->_data;
       OsnStack<T>::_head = OsnStack<T>::_head->next;
         return data;
     }
