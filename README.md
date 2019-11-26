@@ -1,6 +1,5 @@
 
-![Some badge](https://img.shields.io/badge/OzoNe-T__T-blue.svg)
-![forthebadge](https://forthebadge.com/images/badges/not-an-issue.svg)
+
 # Лабораторная работа №5
 
 ## Задание 1
